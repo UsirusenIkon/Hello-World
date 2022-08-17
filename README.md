@@ -6,7 +6,11 @@
    steps. You will be using them in all Microverse projects and most likely in your future job as well, so 
    it is important to know them!
    
+<<<<<<< HEAD
    ![screenshot](./Hello-Microverse.png)
+=======
+   ![screenshot](./Hello-microverse.png)
+>>>>>>> 792f541a2f82ee0b771a3071029235359a5e555f
 
 ## Built With
 
@@ -47,5 +51,10 @@
    - etc
 
 ## 📝 License
+<<<<<<< HEAD
+=======
+
+   This project is [MIT](https://github.com/UsirusenIkon/Hello-World/blob/feature/LICENSE) licensed.
+>>>>>>> 792f541a2f82ee0b771a3071029235359a5e555f
 
    This project is [MIT](https://github.com/UsirusenIkon/Hello-World/blob/feature/LICENSE) licensed.
