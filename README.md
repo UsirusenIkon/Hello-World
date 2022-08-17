@@ -6,28 +6,24 @@
    steps. You will be using them in all Microverse projects and most likely in your future job as well, so 
    it is important to know them!
    
-<<<<<<< HEAD
    ![screenshot](./Hello-Microverse.png)
-=======
-   ![screenshot](./Hello-microverse.png)
->>>>>>> 792f541a2f82ee0b771a3071029235359a5e555f
-
+   
 ## Built With
 
-   HTML & CSS
-   VS code
+   - HTML & CSS
+   - VS code
 
 ## Getting Started
 
-   To get a local copy up and running follow these simple example steps.
+   - To get a local copy up and running follow these simple example steps.
 
 ## Prerequisites
 
-   You need to have git installed in your computer.  
+   - You need to have git installed in your computer.  
 
 ## Setup
 
-   To clone my repository run this command `git clone https://github.com/UsirusenIkon/Portfolio.git`    
+   - To clone my repository run this command `git clone https://github.com/UsirusenIkon/Portfolio.git`    
 
 ##  Authors 
 
@@ -38,7 +34,7 @@
 
 ## 🤝 Contributing
    - Contributions, issues, and feature requests are welcome!
-   - Feel free to check the issues page.
+   - Feel free to check the [issues](https://github.com/issues) page.
 
 ## Show your support
 
@@ -51,10 +47,6 @@
    - etc
 
 ## 📝 License
-<<<<<<< HEAD
-=======
 
-   This project is [MIT](https://github.com/UsirusenIkon/Hello-World/blob/feature/LICENSE) licensed.
->>>>>>> 792f541a2f82ee0b771a3071029235359a5e555f
+   - This project is [MIT](https://github.com/UsirusenIkon/Hello-World/blob/feature/LICENSE) licensed.
 
-   This project is [MIT](https://github.com/UsirusenIkon/Hello-World/blob/feature/LICENSE) licensed.
